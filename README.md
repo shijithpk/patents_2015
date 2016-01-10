@@ -1,6 +1,6 @@
 ###Dataset For IndiaSpend's Patents Articles, Jan 2016###
 
-If all you want is the data, [complete_data_set.csv](complete_data_set.csv) is the file to download. (The rest of the files are just the csv's used to generate the graphics for the copy.)
+If all you want is the data, [complete_data_set.csv](complete_data_set.csv) is the file to download. (The files in the [data_for_copy_graphics](data_for_copy_graphics) folder has the csv's used to generate graphics for the copy.)
 
 Most of the column labels in [complete_data_set.csv](complete_data_set.csv) are self-explanatory, but some of them are my own, so thought I'd explain them in case it gets a little confusing. 
 
