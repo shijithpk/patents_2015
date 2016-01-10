@@ -2,7 +2,7 @@
 
 If all you want is the data, [complete_data_set.csv](complete_data_set.csv) is the file to download. (The files in the [data_for_copy_graphics](data_for_copy_graphics) folder has the csv's used to generate graphics for the IndiaSpend article.)
 
-Should warn you before downloading that [complete_data_set.csv](complete_data_set.csv) is a little heavy at 67 MB. It's got data on all patents granted in India from Jan 1, 2005 to Dec 15, 2015.
+Should warn you that [complete_data_set.csv](complete_data_set.csv) is a little heavy at 67 MB. It's got data on all patents granted in India from Jan 1, 2005 to Dec 15, 2015.
 
 Most of the column labels in [complete_data_set.csv](complete_data_set.csv) are self-explanatory, but some of them are my own, so thought I'd explain them in case it gets a little confusing. 
 
