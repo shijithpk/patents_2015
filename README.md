@@ -8,7 +8,7 @@ Most of the column labels in [complete_data_set.csv](complete_data_set.csv) are 
 
 **inventor_Indian** column has TRUE/FALSE values based on whether the search string "*nationality: IN*" is found in the respective cell of the **applicant_unparsed** column. This is how I found whether an inventor is Indian or not. Same goes for the **applicant_Indian** column. 
 
-**inventor.address.1st** has the addresses of the inventors who got first mention in the respective cell of the **inventor.address.actual column**, in case there's more than one inventor. This column's useful for finding out which CSIR & DRDO labs were responsible for most of their parent organisation's patents.
+**inventor.address.1st** has the addresses of the inventors who got first mention in the respective cell of the **inventor.address.actual** column, in case there's more than one inventor. This column's useful for finding out which CSIR & DRDO labs were responsible for most of their parent organisation's patents.
 
 **applicant.name.1st** has the name of the inventor who gets first mention in the respective cell of the **applicant.name.actual** column. This column was used to find out which organisation had the most patents granted to Indian inventors. 
 
