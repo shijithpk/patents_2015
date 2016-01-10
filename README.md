@@ -4,7 +4,7 @@ If all you want is the data, [complete_data_set.csv](complete_data_set.csv) is t
 
 Most of the column labels in [complete_data_set.csv](complete_data_set.csv) are self-explanatory, but some of them are my own, so thought I'd explain them in case it gets a little confusing. 
 
-**years_gap_bw_app_grant** stands for the no. of years between the application date of a patent and the date it was finally granted.
+**years_gap_bw_app_grant** stands for the no. of years between the application date of a patent and the date it was finally granted. Used this to find out the average approval time for a patent application.
 
 **applicant_Indian column** has TRUE/FALSE values based on whether the search string "*nationality: IN*" is found in the respective cell of the **applicant_unparsed** column. This is how I found whether an inventor is Indian or not. 
 
