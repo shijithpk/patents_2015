@@ -6,7 +6,7 @@ Most of the column labels in [complete_data_set.csv](complete_data_set.csv) are 
 
 **years_gap_bw_app_grant** stands for the no. of years between the application date of a patent and the date it was finally granted. Used this to find out the average approval time for a patent application.
 
-**inventor_Indian column** has TRUE/FALSE values based on whether the search string "*nationality: IN*" is found in the respective cell of the **applicant_unparsed** column. This is how I found whether an inventor is Indian or not. Same goes for the **applicant_Indian** column. 
+**inventor_Indian** column has TRUE/FALSE values based on whether the search string "*nationality: IN*" is found in the respective cell of the **applicant_unparsed** column. This is how I found whether an inventor is Indian or not. Same goes for the **applicant_Indian** column. 
 
 **inventor.address.1st** has the addresses of the inventors who got first mention in the respective cell of the **inventor.address.actual column**, in case there's more than one inventor. This column's useful for finding out which CSIR & DRDO labs were responsible for most of their parent organisation's patents.
 
