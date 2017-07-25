@@ -2,7 +2,7 @@
 
 This is a repo for two IndiaSpend articles I'd written on Indian patents. The articles [Nobel Laureates Spotlight India’s Invention Problem](http://www.indiaspend.com/cover-story/nobel-laureates-spotlight-indias-invention-problem-61176) and [Patent Delays Threaten "Make In India"](http://www.indiaspend.com/cover-story/patent-delays-threaten-make-in-india-67033) were published on January 11, 2016 and January 12, 2016, respectively.
 
-If all you want is the data, [complete_data_set.csv](complete_data_set.csv) is the file to download. (The files in the [data_for_copy_graphics](data_for_copy_graphics) folder has the csv's used to generate graphics for the IndiaSpend article.)
+If all you want is the data, [complete_data_set.csv](complete_data_set.csv) is the file to download. (The files in the [data_for_copy_graphics](data_for_copy_graphics) folder has the CSVs used to generate graphics for the IndiaSpend article.)
 
 Should warn you that [complete_data_set.csv](complete_data_set.csv) is a little heavy at 67 MB. It's got data on all patents granted in India from Jan 1, 2005 to Dec 15, 2015.
 
