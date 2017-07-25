@@ -1,4 +1,4 @@
-# Dataset For IndiaSpend's Patents Articles, Jan 2016
+# Dataset For IndiaSpend Patent Articles
 
 This is a repo for two IndiaSpend articles I'd written on Indian patents. The articles [Nobel Laureates Spotlight India’s Invention Problem](http://www.indiaspend.com/cover-story/nobel-laureates-spotlight-indias-invention-problem-61176) and [Patent Delays Threaten "Make In India"](http://www.indiaspend.com/cover-story/patent-delays-threaten-make-in-india-67033) were published on January 11, 2016 and January 12, 2016, respectively.
 
